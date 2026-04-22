@@ -16,6 +16,6 @@
 
 ###
 
-<p align="left">-  currently learning machine learning & deep learning.<br>-  passionate about designing ui/ux and creating intuitive experiences.  <br>-  want to build projects that solve real-world problems.</p>
+<p align="left">-  currently learning deep learning and agentic ai.<br>-  passionate about designing ui/ux and creating intuitive experiences.  <br>-  want to build projects that solve real-world problems.</p>
 
 ###
