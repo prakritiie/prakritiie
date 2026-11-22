@@ -53,8 +53,6 @@
 
 <div align="center">
 
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=prakritiie&color=a78bfa&style=flat-square&label=visitors" />
 
 <sub>building things, breaking things, learning things.</sub>
