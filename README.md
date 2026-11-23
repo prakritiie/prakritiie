@@ -1,8 +1,6 @@
  <div align="center">
 
-<!-- ASCII TREE ANIMATION -->
-<!-- Replace the URL below with your exported ASCII tree GIF URL -->
-<img height = '1100' src="https://i.pinimg.com/originals/e8/4b/a6/e84ba66a9568c870d2929907de39fb58.gif"/>
+<img height = '1100' src="https://i.pinimg.com/originals/58/be/b7/58beb731828c5aab81ec4f637fc729d6.gif"/>
 
 <br/>
 
